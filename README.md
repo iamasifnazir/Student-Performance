@@ -1,1 +1,2 @@
 # Student-Performance
+Submitting project for machine learning Submitted by Muhammad Asif Nazir. My project is to tell about performance of student on the basis of different attributes.   I have data set containing data of 16000 Students data is taken from kaggle . 70% data is for training and 30% is for testing Packages. I use for this project jupyter , Numpy , Pandas , LabelEncoder.  Algorithm i used for this is logistic regression Accuracy of my Algorithm is  76.388%
