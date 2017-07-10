@@ -1,4 +1,4 @@
-# Students' Academic Performance Dataset (xAPI-Edu-Data)
+# Students' Academic Performance Dataset (ab)
 Data Set Characteristics: Multivariate
 Number of Instances: 480
 Area: E-learning, Education, Predictive models, Educational Data Mining
