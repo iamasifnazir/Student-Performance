@@ -23,7 +23,6 @@ The data set includes also the school attendance feature such as the students ar
 
 This dataset includes also a new category of features; this feature is parent parturition in the educational process. Parent participation feature have two sub features: Parent Answering Survey and Parent School Satisfaction. There are 270 of the parents answered survey and 210 are not, 292 of the parents are satisfied from the school and 188 are not.
 
-(See the related papers for more details).
 
 # Attributes
 
